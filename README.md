@@ -34,6 +34,3 @@ Fleur Hendriks. Supervisors: Vlado Menkovski, Martin Doškář, Marc Geers, Ond�
 
 ## License
 To be added.
-
-## Project status
-In progress
