@@ -1,0 +1,9 @@
+*.pkl
+*bucklingBeam_*.png
+*mlruns*
+__pycache__/
+.venv/*
+test4_buckling_beams/figures/*
+*.xlsx
+*.pt
+test5_AllenCahn/figures/*

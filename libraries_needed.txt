@@ -1,0 +1,7 @@
+libraries:
+
+torch
+torch_geometric
+matplotlib
+numpy
+scipy (version 1.13 or higher)
